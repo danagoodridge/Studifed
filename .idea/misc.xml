@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circledarkblue.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circlegreen.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circlelightgreen.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circleorange.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circlepink.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/circlepurple.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_person_search_24.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_preview_24.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_launcher_foregroundnew.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_channel.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_pointofview.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_register.xml" value="0.4" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/activity_text.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/app_bar_drawer_menu.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/content_drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/fragment_gallery.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/fragment_home.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/fragment_slideshow.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/item_group.xml" value="0.264" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/nav_header_drawer_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/layout/register.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/menu/activity_drawer_menu_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/menu/drawer_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.264" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/mipmap-anydpi-v26/ic_launchernew.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/StudyGroupFind/app/src/main/res/mipmap-anydpi-v26/ic_launchernew_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
